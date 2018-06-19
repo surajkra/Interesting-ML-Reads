@@ -4,4 +4,7 @@
 
 
 
-## Interesting Read on Dropouts - 
+## Important Aspects 
+
+## Interesting Links on Dropouts -
+1) [Learning Less to Learn Better](https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5)
