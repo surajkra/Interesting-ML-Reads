@@ -3,7 +3,7 @@
 ### Paper Link:- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting [1]](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
 -> Key idea is to randomly drop units (along with their connections) from the neural network during training which prevents units from co-adapting too much.
 ![Dropouts](https://github.com/surajkra/Interesting-ML-Reads/blob/master/Images/Dropouts_Architecture.JPG)
-->
+-> It prevents overfitting & provides a way of approximately combining exponentially many different Neural Net models
 
 
 
