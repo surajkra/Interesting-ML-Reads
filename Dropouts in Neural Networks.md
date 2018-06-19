@@ -1,6 +1,7 @@
 
 ## Key Ideas from the paper
 ### Paper Link:- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting [1]](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
+-> Key idea is to randomly drop units (along with their connections) from the neural network during training. 
 
 
 
